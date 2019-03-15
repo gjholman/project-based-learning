@@ -266,6 +266,9 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - Make Flappy Bird in HTML5 and JavaScript with Phaser
   - [Part 1](http://www.lessmilk.com/tutorial/flappy-bird-phaser-1)
   - [Part 2](http://www.lessmilk.com/tutorial/flappy-bird-phaser-2)
+- Make Asteroids in Vanilla JavaScript and Neural Net AI (Videos)
+  - [Part 1](https://www.youtube.com/watch?v=H9CSWMxJx84)
+  - [Part 2](https://www.youtube.com/watch?v=2cGHkBeGpeU)
 
 ### Desktop Application:
 
